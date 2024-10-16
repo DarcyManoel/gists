@@ -7,6 +7,7 @@ Githubs inbuilt tools for sorting gists feels lacking, so here's a breakdown lis
 ## Function
 - [getParameters.js](https://gist.github.com/DarcyManoel/da1a3d1dd0a78035700e3abe0d55e4ec)
 ## Number
+- [baseConverter](https://gist.github.com/DarcyManoel/1c50fe892102b86b96ee71fbf88de806)
 - [separateThousands](https://gist.github.com/DarcyManoel/ce3074d5d25bb59c06f35fe7fe21c4b6)
 ## Object
 - [nestedJoin.js](https://gist.github.com/DarcyManoel/bff7672c170f1ed0b9bad46a2c65319a)
